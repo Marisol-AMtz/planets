@@ -1,3 +1,7 @@
 Added by fraroco
+<<<<<<< HEAD
 
 Issue added by fraroco
+=======
+Creat Conflict
+>>>>>>> 86d773efee181800be4c0903ae6e8007f6a3d692
